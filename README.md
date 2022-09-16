@@ -2,7 +2,7 @@
 
 This is an assignment for Software Design for Visual Environments
 
-* The goal of this assignment is to build a tip calculator that immediately updates the results whenever users alter the inputs and style the UI via **XML** files only
+* The goal of this assignment is to build a tip calculator that **immediately updates** the results whenever users alter the inputs and style the UI via **XML** files only
 
 * [activity_main.xml](res/layout/activity_main.xml) designs the UI of this application
 * [MainActivity.java](MainActivity.java) implements the calculation for tips 
